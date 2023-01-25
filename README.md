@@ -10,3 +10,4 @@
 # Refs:
  Prototype test base on example from:
  * https://github.com/emilk/egui/tree/master/examples/custom_window_frame
+ * https://github.com/emilk/egui/blob/master/crates/egui_demo_lib/src/demo/code_editor.rs
